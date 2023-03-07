@@ -1,2 +1,2 @@
 # furniture-shop
- furniture-shop ui/ux
+<h1>Furniture Shop Design with Html , Css , Js </h1>
